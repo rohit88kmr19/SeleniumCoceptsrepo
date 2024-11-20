@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_Concepts"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.236">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVWOLoginNegative"
+                time="10.236"
+                classname="org.example.Fluent_wait">
+            </testcase>
+</testsuite>

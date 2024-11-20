@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_Concepts"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.311">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_flipkart_search"
+                time="4.311"
+                classname="org.example.SVG_Concepts_FlikartTitles">
+            </testcase>
+</testsuite>

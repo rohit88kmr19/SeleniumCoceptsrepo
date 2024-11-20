@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_Concepts"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.647">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_IndiaMaps"
+                time="3.647"
+                classname="org.example.SVG_Concepts_IndiaMaps">
+            </testcase>
+</testsuite>
